@@ -10,7 +10,7 @@
 
 > 举个例子：
 > 
-> ![image](https://user-images.githubusercontent.com/15652213/194696528-e6e1827a-ef60-41d2-b815-92f96042b288.png)
+> ![image](imgs/image-20220922155756-2c7kj24.png)
 
 ## 宝典三
 
@@ -18,7 +18,7 @@
 
 > 群友评价：
 >
-> ![image](https://user-images.githubusercontent.com/15652213/194696510-c1fe3beb-19b8-4b55-b6ea-c0089936b73a.png)
+> ![image](imgs/image-20220922155720-vkdg6dd.png)
 
 ## 宝典四
 
