@@ -4,6 +4,6 @@
 
 [点击跳转](Quotations/README-CN.md)
 
-## 英文
+## English language
 
-坐等大佬翻译
+Waiting for the big brother to translate
